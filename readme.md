@@ -2,6 +2,8 @@ This development by Python3.
 
 If you need another information for your Ubuntu os please look "oidlist.md" .
 
+Change this line before use:
+request = Request('URL',data=val.prettyPrint())
 
 Please install "pysnmp" python library before use.
 pysnmp to download write this command in your terminal: pip3 install pysnmp
